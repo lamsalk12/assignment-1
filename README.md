@@ -10,6 +10,7 @@ basics of Git/GitHub, NumPy, and pandas.
 ├── README.md
 ├── requirements.txt
 ├── answers/
+|   |── 01_git_theory.md     # part A - Basic Git(A1-A15)
 │   ├── 02\_numpy.py         # Part B — NumPy (B1–B10)
 │   └── 03\_pandas.ipynb     # Part C — pandas (C1–C12)
 ├── data/
